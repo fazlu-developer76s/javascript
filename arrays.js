@@ -16,7 +16,7 @@ const numbers = [1,2,3,4,5,6,7];
 // 1.1
 // let num =[];
 // let newArr1 = numbers.forEach((val)=>{ num.push(val*2)});
-// console.log(num);
+// console.log(num); 
 
 // 1.2
 // let num =[];
